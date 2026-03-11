@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 155 46" width="155" height="46">
+  <rect rx="7" ry="7" width="155" height="46" fill="#000"/>
+  <!-- Apple logo -->
+  <g transform="translate(12, 5)" fill="#fff">
+    <path d="M20.17 16.38c-.03-3.67 2.99-5.44 3.13-5.53-1.70-2.50-4.35-2.84-5.29-2.87-2.25-.23-4.39 1.32-5.53 1.32-1.14 0-2.91-1.29-4.78-1.25-2.45.04-4.72 1.43-5.98 3.60-2.55 4.44-.65 11.02 1.83 14.62 1.21 1.74 2.65 3.69 4.53 3.62 1.82-.07 2.51-1.17 4.71-1.17 2.21 0 2.84 1.17 4.77 1.13 1.96-.04 3.20-1.77 4.39-3.52 1.40-2.02 1.97-3.99 2.00-4.09-.04-.02-3.79-1.47-3.79-5.87z"/>
+    <path d="M16.65 5.39c.98-1.20 1.64-2.86 1.46-4.52-1.41.06-3.17.96-4.19 2.14-.91 1.06-1.72 2.78-1.51 4.42 1.57.12 3.18-.81 4.24-2.04z"/>
+  </g>
+  <!-- Download on the -->
+  <text x="48" y="18" font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="9" fill="#fff" letter-spacing="0.2">Download on the</text>
+  <!-- App Store -->
+  <text x="47" y="35" font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="18" font-weight="600" fill="#fff" letter-spacing="-0.2">App Store</text>
+</svg>

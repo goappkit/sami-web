@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 165 46" width="165" height="46">
+  <rect rx="7" ry="7" width="165" height="46" fill="#000"/>
+  <!-- Google Play triangle logo (colorful) -->
+  <!-- Shadow/base triangle -->
+  <g transform="translate(13, 8)">
+    <!-- Green triangle top-right piece -->
+    <polygon points="0,0 15,15 0,30" fill="url(#grad_green)" opacity="0.9"/>
+    <polygon points="0,0 22,15 15,15" fill="url(#grad_yellow)"/>
+    <polygon points="15,15 22,15 0,30" fill="url(#grad_red)"/>
+    <polygon points="0,15 15,15 22,15 0,30" fill="url(#grad_blue)" opacity="0.6"/>
+    <!-- Simplified clean multicolor play button -->
+  </g>
+  <defs>
+    <linearGradient id="grad_green" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#32BBFF"/>
+      <stop offset="100%" style="stop-color:#1EA6E6"/>
+    </linearGradient>
+    <linearGradient id="grad_yellow" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#FFD400"/>
+      <stop offset="100%" style="stop-color:#FFBB00"/>
+    </linearGradient>
+    <linearGradient id="grad_red" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#FF3A44"/>
+      <stop offset="100%" style="stop-color:#C31162"/>
+    </linearGradient>
+    <linearGradient id="grad_blue" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#32BBFF"/>
+      <stop offset="100%" style="stop-color:#01E2FF"/>
+    </linearGradient>
+  </defs>
+  <!-- GET IT ON -->
+  <text x="52" y="18" font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="9" fill="#fff" letter-spacing="0.5">GET IT ON</text>
+  <!-- Google Play -->
+  <text x="51" y="35" font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="18" font-weight="500" fill="#fff" letter-spacing="-0.1">Google Play</text>
+</svg>
