@@ -1,0 +1,72 @@
+# Privacy Policy
+
+**Last Updated: March 8, 2026**
+
+This Privacy Policy explains how this application (the "App") handles information when you use the App.
+
+---
+
+## 1. Information Collection
+
+The App operates primarily offline and does **not** collect or store personal information from users.
+
+Documents scanned or created using the App are stored locally on your device unless you choose to export or share them.
+
+---
+
+## 2. Camera and Photo Library
+
+The App requires access to your device’s camera and photo library for the following purposes:
+
+* **Camera**: To capture documents for scanning.
+* **Photo Library**: To save scanned documents or import existing images for scanning.
+
+The App does **not** access your camera or photos for any other purpose.
+
+---
+
+## 3. Local Data Storage
+
+The App may store certain data locally to provide functionality, including:
+
+* Scanned documents
+* App settings
+* Usage points or feature access data
+
+This data remains on your device and is not transmitted to the developer.
+
+---
+
+## 4. Advertisements
+
+The App may display third-party advertisements. These may collect non-personal information such as device info and interaction with ads.
+
+Refer to the privacy policies of the respective advertising providers for details.
+
+---
+
+## 5. In-App Purchases
+
+Optional in-app purchases may be offered. Payments are processed by the platform (Apple/Google). The developer does not store payment information.
+
+The platform provider may collect information necessary to process the transaction according to their own privacy policies.
+
+---
+
+## 6. Data Security
+
+Users are responsible for securing their devices and local data.
+
+---
+
+## 7. Children’s Privacy
+
+The App is not intended for children under 13 and does not knowingly collect personal information from them.
+
+---
+
+## 8. Changes and Contact
+
+This Privacy Policy may be updated from time to time. Updated versions will be published within the App or related website.
+
+Questions can be directed to the developer via the contact info provided in the App.

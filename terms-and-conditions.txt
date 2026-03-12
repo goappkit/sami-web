@@ -1,0 +1,65 @@
+# Terms & Conditions
+
+**Last Updated:** March 8, 2026
+
+Welcome to this application (the "App"). By downloading, installing, or using the App, you agree to be bound by these Terms & Conditions. If you do not agree to these terms, please do not use the App.
+
+## 1. Use of the App
+
+The App is provided as a document scanning tool intended for personal use. You agree to use the App only for lawful purposes and in accordance with these Terms.
+
+You are responsible for how you use the App and for ensuring that your use complies with applicable laws and regulations.
+
+## 2. Local Data Storage
+
+The App primarily operates offline. Documents scanned or processed using the App are stored locally on your device unless you choose to export or share them.
+
+The App does not automatically upload your scanned documents to any server operated by the developer.
+
+You are responsible for managing, backing up, and securing your own data.
+
+## 3. Points System
+
+The App may use a points-based usage system.
+
+* Certain features may consume points.
+* Points may be refreshed daily according to the App's internal rules.
+* Points may also be obtained through optional rewarded advertisements.
+
+Points have no real-world monetary value and cannot be transferred, exchanged, or redeemed for cash.
+
+## 4. Advertisements
+
+The App may display advertisements, including rewarded advertisements that provide additional points when viewed voluntarily by the user.
+
+Advertisement availability and rewards may vary and are not guaranteed.
+
+## 5. In-App Purchases
+
+The App may offer optional in-app purchases that unlock additional features or remove usage limits.
+
+Payments are processed by the respective platform provider (such as Apple App Store or Google Play). The developer does not store or process payment information.
+
+All purchases are subject to the terms and policies of the platform provider.
+
+## 6. No Warranty
+
+The App is provided "as is" and "as available" without warranties of any kind.
+
+The developer does not guarantee that the App will always function without interruption or errors.
+
+## 7. Limitation of Liability
+
+To the fullest extent permitted by law, the developer shall not be liable for any indirect, incidental, or consequential damages arising from the use of the App.
+
+This includes, but is not limited to, loss of data, device issues, or other damages resulting from use of the App.
+
+## 8. Changes to These Terms
+
+The developer may update these Terms & Conditions from time to time. Updated terms will become effective when published within the App or associated website.
+
+Continued use of the App after changes means you accept the updated terms.
+
+## 9. Contact
+
+If you have any questions regarding these Terms & Conditions, you may contact the developer through the contact information provided in the App.
