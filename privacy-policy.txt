@@ -1,6 +1,6 @@
 # Privacy Policy
 
-**Last Updated: March 12, 2026**
+**Last Updated: April 8, 2026**
 
 This Privacy Policy explains how this application (the "App") handles information when you use the App.
 
@@ -33,7 +33,7 @@ The App stores certain data locally on your device to provide its functionality,
 * App settings
 * Usage points or feature access data
 
-This data is not transmitted to the developer except when you voluntarily submit feedback (see Section 5).
+This data is not transmitted to the developer.
 
 ---
 
@@ -52,19 +52,7 @@ This data is sent to Google's servers and is governed by [Google's Privacy Polic
 
 ---
 
-## 5. User Feedback
-
-The App provides an optional feedback feature. When you submit feedback, the following information is sent to the developer via Google Forms:
-
-* Feedback title and content (entered by you)
-* Your email address (optional, only if you choose to provide it, solely for the developer to reply to you)
-* Device operating system type and version (automatically attached to help diagnose issues)
-
-Feedback data is stored on Google's servers and governed by [Google's Privacy Policy](https://policies.google.com/privacy). Your email address will not be used for any purpose other than responding to your feedback.
-
----
-
-## 6. Advertisements
+## 5. Advertisements
 
 The App may display third-party advertisements powered by **Google AdMob**. The advertising SDK may collect non-personal information such as device identifiers, ad interaction data, and (with your permission) advertising identifiers for ad personalization.
 
@@ -74,27 +62,19 @@ Refer to [Google's Privacy Policy](https://policies.google.com/privacy) for deta
 
 ---
 
-## 7. In-App Purchases
-
-Optional in-app purchases may be offered. Payments are processed by the platform (Apple/Google). The developer does not store payment information.
-
-The platform provider may collect information necessary to process the transaction according to their own privacy policies.
-
----
-
-## 8. Data Security
+## 6. Data Security
 
 The developer takes reasonable steps to protect data submitted through the App. However, users are also responsible for securing their devices and local data.
 
 ---
 
-## 9. Children's Privacy
+## 7. Children's Privacy
 
 The App is not intended for children under 13 and does not knowingly collect personal information from them.
 
 ---
 
-## 10. Changes and Contact
+## 8. Changes and Contact
 
 This Privacy Policy may be updated from time to time. Updated versions will be published within the App or on the related website.
 
