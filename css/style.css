@@ -520,6 +520,46 @@ ul { list-style: none; }
   flex-wrap: wrap;
 }
 
+/* ---- Contact ---- */
+.contact {
+  padding: 100px 0;
+}
+
+.contact-card {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 12px;
+  background: var(--card-bg);
+  border: 1px solid var(--border);
+  border-radius: 20px;
+  padding: 48px 32px;
+  max-width: 480px;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.contact-icon {
+  font-size: 2.5rem;
+  line-height: 1;
+}
+
+.contact-label {
+  font-size: 0.875rem;
+  color: var(--text-muted);
+  margin: 0;
+}
+
+.contact-email {
+  font-size: 1.1rem;
+  font-weight: 600;
+  color: var(--accent);
+  word-break: break-all;
+  transition: opacity var(--transition);
+}
+
+.contact-email:hover { opacity: 0.75; }
+
 /* ---- Footer ---- */
 .footer {
   padding: 48px 0;
